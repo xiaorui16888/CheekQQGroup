@@ -1,5 +1,10 @@
 package com.joinqqgroup;
 
+/**
+ * Created by 郭小睿同学 on 2018/8/7.
+ * 欢迎加入编程技术交流群，群聊号码：574762369
+ */
+
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.os.Bundle;
