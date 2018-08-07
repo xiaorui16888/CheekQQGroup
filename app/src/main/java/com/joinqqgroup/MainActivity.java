@@ -3,6 +3,7 @@ package com.joinqqgroup;
 /**
  * Created by 郭小睿同学 on 2018/8/7.
  * 欢迎加入编程技术交流群，群聊号码：574762369
+ * 非商业转载，请注明原作者和链接；但如果是商业转载，对不起，请先拿钱来。
  */
 
 import android.app.Activity;
